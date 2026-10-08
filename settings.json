@@ -8,7 +8,7 @@
   "server": {
     "ip": "Webland.aternos.me",
     "port": 41923,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
