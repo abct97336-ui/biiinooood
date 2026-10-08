@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "ip": "Webland.aternos.me",
+    "port": 41923,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
