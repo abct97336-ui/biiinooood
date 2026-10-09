@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SatnamHub.aternos.me",
-    "port": 54100,
+    "ip": "Webland.aternos.me",
+    "port": 41923,
     "version": "1.21.1"
   },
   "position": {
